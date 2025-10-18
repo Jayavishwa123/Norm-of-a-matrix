@@ -14,11 +14,11 @@ Python
 # Developed By:Jaya Vishwa S
 # 1-Norm of a Matrix
 ```
-
+'''
 Program to find 2-norm of a matrix.
 Developed by: Jaya Vishwa S
 RegisterNumber: 212224230105
-
+'''
 
 import numpy as np
 matrix=eval(input())
@@ -33,11 +33,11 @@ print("{:.2f}".format(norm1))
 
 
 ```
-
+'''
 Program to find 2-norm of a matrix.
 Developed by: Jaya Vishwa S
 RegisterNumber: 212224230105
-
+'''
 import numpy as np
 matrix=eval(input())
 arr=np.array(matrix)
@@ -50,11 +50,11 @@ print("{:.2f}".format(norm2))
 
 
 ```
-
+'''
 Program to find 2-norm of a matrix.
 Developed by: Jaya Vishwa S
 RegisterNumber: 212224230105
-
+'''
 
 import numpy as np
 matrix=eval(input())
